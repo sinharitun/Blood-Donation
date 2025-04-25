@@ -57,6 +57,7 @@
   .vision p {
     font-size: 1.2rem;
     line-height: 1.6;
+    text-align: justify;
   }
   
   .team-members {

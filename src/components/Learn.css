@@ -1,0 +1,64 @@
+.main-cont{
+    background-color: rgb(237, 235, 235);
+}
+
+.learn-container{
+    max-width: 1000px;
+    min-width: 500px;
+    margin: auto;
+    padding-top: 50px;
+    padding: 30px;
+    background-color: rgb(233, 232, 230);
+}
+.des h1{
+    text-align: center;
+    
+}
+.card-steps{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 50px;
+    padding: 50px;
+    background-color: rgb(239, 242, 244);
+    box-shadow: 1px 1px 5px;
+}
+.card-steps ul{
+    padding-left: 20px;
+}
+.card-steps h2{
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 32px;
+}
+
+.addition-detail{
+    margin: 30px;
+    padding-left: 20px;
+}
+.addition-detail h2{
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+.addition-detail ul{
+    padding-left: 20px;
+    
+}
+.but{
+    display: block;
+    font-size: 22px;
+    padding:  20px 50px;
+    
+}
+.but div{
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+.but a{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}

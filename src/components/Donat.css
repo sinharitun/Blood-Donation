@@ -78,3 +78,9 @@
   .submit-button:hover {
     background-color: #cc0000;
   }
+  .sub-head h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  }

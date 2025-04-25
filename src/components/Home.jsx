@@ -49,7 +49,7 @@ function Home() {
           <li>Book an appointment at your nearest blood donation camp.</li>
           <li>Come prepared, stay hydrated, and donate!</li>
         </ol>
-        <a href="/donate" className="donate-link">
+        <a href="/LearnMore" className="donate-link">
           Learn More About the Process
         </a>
       </section>

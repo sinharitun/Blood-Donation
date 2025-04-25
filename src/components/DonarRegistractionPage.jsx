@@ -1,5 +1,6 @@
 // DonorRegistrationPage.js
 import React from "react";
+import "./Donat.css";
 import DonorForm from "./DonarForm"; // Adjust the path based on your project structure
 
 const DonorRegistrationPage = () => {
@@ -27,7 +28,7 @@ const DonorRegistrationPage = () => {
   };
 
   return (
-    <div>
+    <div className="sub-head">
       <h1>Donor Registration</h1>
       <DonorForm onSubmit={handleDonorRegistration} />
     </div>

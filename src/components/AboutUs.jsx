@@ -7,8 +7,8 @@ function AboutUs() {
       <section className="about-header">
         <h1>About Us</h1>
         <p>
-          Saving lives, one drop at a time. Our mission is to make blood
-          donation easy, accessible, and impactful.
+        <h2>Saving Lives, One Drop at a Time</h2>
+        Every drop of blood holds the power to save a life — and you could be someone’s hero today. Our mission is to make blood donation not just accessible, but a powerful act of kindness that anyone can take part in.
         </p>
       </section>
 
@@ -16,24 +16,14 @@ function AboutUs() {
         <div className="mission">
           <h2>Our Mission</h2>
           <p>
-            We are dedicated to bridging the gap between blood donors and those
-            in need. Our platform connects donors with blood banks and
-            hospitals, ensuring that every donation makes a difference. By
-            providing reliable information, convenient scheduling, and real-time
-            tracking, we aim to make the donation process smooth and
-            transparent.
+          We’re on a heartfelt mission to connect life-saving blood donors with hospitals, blood banks, and patients in urgent need. Our platform simplifies the donation process through easy scheduling, real-time tracking, and trustworthy information — all designed to make your generous act seamless and impactful. Whether it's a planned donation or a quick response to an emergency, we’re here to support every life-saving drop.
           </p>
         </div>
 
         <div className="vision">
           <h2>Our Vision</h2>
           <p>
-            Our vision is to create a world where no life is lost due to a
-            shortage of blood. We strive to build a community of regular donors
-            and ensure that blood is always available for those who need it the
-            most. Through awareness campaigns, community events, and
-            partnerships with healthcare organizations, we work tirelessly to
-            achieve this goal.
+          Imagine a world where no one dies waiting for blood. That’s the future we’re working toward — a future built on compassion, community, and consistency. We aim to cultivate a network of committed donors and ensure that blood is never in short supply when lives hang in the balance. Through awareness drives, local events, and partnerships with healthcare institutions, we’re creating a movement that turns everyday people into everyday heroes.
           </p>
         </div>
 
@@ -42,17 +32,17 @@ function AboutUs() {
           <div className="team-members">
             <div className="team-member">
               <img src="path-to-image-1" alt="Founder" />
-              <h3>Jane Doe</h3>
+              <h3>Ritun Raj</h3>
               <p>Founder & CEO</p>
             </div>
             <div className="team-member">
               <img src="path-to-image-2" alt="Co-Founder" />
-              <h3>John Smith</h3>
+              <h3>Zoro</h3>
               <p>Co-Founder & Operations Lead</p>
             </div>
             <div className="team-member">
               <img src="path-to-image-3" alt="Marketing Head" />
-              <h3>Emily Davis</h3>
+              <h3>Monkey D Luffy</h3>
               <p>Head of Marketing</p>
             </div>
           </div>
