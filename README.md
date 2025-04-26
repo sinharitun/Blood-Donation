@@ -1,12 +1,29 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Blood Donation website
 
-Currently, two official plugins are available:
+Blood donation is the voluntary process of giving blood, which is used to help people in need of transfusions during surgeries, accidents, medical treatments, and serious health conditions. A single donation can save up to three lives by providing essential components like red blood cells, platelets, and plasma. Blood donation is a simple, safe act of kindness that plays a critical role in healthcare systems worldwide, ensuring that hospitals and patients have the life-saving resources they need at the right time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🚀 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+![alt text](<output/Screenshot (82).png>)
+![alt text](<output/Screenshot (84).png>)
+![alt text](<output/Screenshot (85).png>)
+ ![alt text](<output/Screenshot (83).png>)
+![alt text](<output/Screenshot (86).png>)
+
+## 🛠️ Features
+
+- Easy Blood Donation Booking — Find and schedule appointments at nearby blood donation camps.
+- Learn About Blood Donation — Step-by-step guides and eligibility information for new donors.
+- Community Engagement — Participate in events, drives, and awareness campaigns.
+
+## 🧩 Tech Stack
+
+**Frontend:** React, Vite  
+ 
+**Hosting:** Netlify (frontend)
+
+
